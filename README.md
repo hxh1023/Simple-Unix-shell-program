@@ -1,4 +1,4 @@
-# Implement a simple, interactive unix shell program
+# Implement a simple, interactive Unix shell program
 
 ### Feature a - Repeatedly prompt the user for commands.
 I output "vsh%" repeatedly in console to ask user for commands. For simple commands, I call funtion named "Output_One_Cmd", which will create a child process for these commands.
