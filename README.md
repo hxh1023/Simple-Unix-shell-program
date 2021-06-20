@@ -1,4 +1,4 @@
-# Csc360 Coursework A1_Xuanheng He
+# Implement a simple, interactive unix shell program
 
 ### Feature a
 I output "vsh%" repeatedly in console to ask user for commands. For simple commands, I call funtion named "Output_One_Cmd", which will create a child process for these commands.
